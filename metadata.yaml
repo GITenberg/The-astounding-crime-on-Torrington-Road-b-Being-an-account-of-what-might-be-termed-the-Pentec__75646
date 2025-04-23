@@ -1,0 +1,59 @@
+_repo: The-astounding-crime-on-Torrington-Road-b-Being-an-account-of-what-might-be-termed-the-Pentec__75646
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gillette, William
+    aliases:
+    - Gillette, William H. (William Hooker)
+    - Gillette, William Hooker
+    - Gillette, Will
+    birthdate: 1853
+    deathdate: 1937
+    gutenberg_agent_id: '38243'
+    url: http://www.gutenberg.org/2009/agents/38243
+    wikipedia: https://en.wikipedia.org/wiki/William_Gillette
+description: 'Reading ease score: 78.4 (7th grade). Fairly easy to read.'
+gutenberg_bookshelf:
+- 'Browsing: Crime/Mystery'
+- 'Browsing: Fiction'
+gutenberg_issued: '2025-03-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75646'
+  lccn: '27012510'
+language: en
+pgterms:marc904: https://archive.org/details/astoundingcrimeo00gill/page/n5/mode/2up
+pgterms:marc905: 20241204172351gillette
+pgterms:marc906: '1927'
+pgterms:marc907: US
+production_note: Bob Taylor, Tim Miller and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aNew York :$bHarper & Brothers Publishers, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Murder -- Investigation -- Fiction'
+- !lcc 'PS'
+- GITenberg
+summary: '"The Astounding Crime on Torrington Road" by William Gillette is a narrative
+  likely written in the early 20th century. This intriguing account appears to delve
+  into a gripping criminal case, centering around characters involved in a complex
+  plot, including a staff reporter, Horace McClintock, and potential suspects like
+  Hugo Pentecost and Stephen W. Harker. The story seems to promise a blend of investigation
+  and drama, inviting readers into a world of audacity and deception.  The opening
+  of the narrative introduces us to Horace McClintock, a New York reporter who is
+  dispatched to Boston, where he coincidentally meets Andrew H. Barnes, a man connected
+  to a mysterious case involving a young man named Jamie Dreek. As McClintock narrates
+  his earlier experiences trailing Dreek during a train ride, we learn about ominous
+  events tied to the houses located on Torrington Road. Barnes, meanwhile, has been
+  observing this case for two years, compellingly hinting at its intricate nature
+  as he seeks a reporter to help transcribe his findings about the strange occurrences
+  linked to the Haworth family and a historic mansion. The tension mounts as McClintock
+  weighs the ethical implications of involving himself in this sensational account.
+  (This is an automatically generated summary.)'
+title: 'The astounding crime on Torrington Road : $b Being an account of what might
+  be termed "the Pentecost episode" in a most audacious criminal career'
+url: http://www.gutenberg.org/ebooks/75646
